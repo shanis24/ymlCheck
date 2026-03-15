@@ -1,0 +1,313 @@
+
+
+15-03-2026  16:25    <DIR>          .
+30-12-2025  17:46    <DIR>          ..
+02-06-2024  20:24                35 .gitattributes
+02-06-2024  20:24    <DIR>          .github
+02-06-2024  20:24               266 .gitignore
+02-06-2024  20:24               416 .travis.yml
+28-06-2025  14:40    <DIR>          01-1-DS math specialization
+12-01-2026  19:40    <DIR>          01-problem-solving
+05-04-2025  22:52    <DIR>          02-logic-introduction
+12-01-2026  20:27    <DIR>          03-an-introduction-to-logic-in-computer-science
+13-08-2025  18:35    <DIR>          04-Precalculus through Data and Modelling Specialization
+11-12-2025  12:43    <DIR>          05-Differential Calculus through Data and Modeling Specialization
+30-06-2025  20:03    <DIR>          06-1-numerical-methods-engineers
+25-05-2025  14:27    <DIR>          06-2-introduction-ee
+30-06-2025  21:08    <DIR>          07-2-ideal-gases
+30-06-2025  21:13    <DIR>          07-3-dense-gases-liquids-solids
+30-06-2025  21:11    <DIR>          07-4-macroscopic-microscopic-thermodynamics
+30-06-2025  21:16    <DIR>          07-stats-thermo-non-equilibrium-applications
+01-07-2025  13:57    <DIR>          08-2-compstatsintro
+13-08-2025  18:37    <DIR>          09-Expressway to Data Science Essential Math Specialization
+03-06-2024  11:30    <DIR>          10-java-programming-design-principles
+03-06-2024  11:44    <DIR>          11-object-oriented-java
+25-05-2025  17:49    <DIR>          12-java-multi-threading-mastery-from-basics-to-advanced
+25-05-2025  14:56    <DIR>          13-java-servlet-pages
+03-07-2024  12:59    <DIR>          14-javascript-jquery-json
+23-06-2024  21:47    <DIR>          15-python specialization
+05-04-2025  14:23    <DIR>          16-1-introduction-to-ai
+05-04-2025  15:18    <DIR>          16-python-for-applied-data-science-ai
+11-06-2024  00:40    <DIR>          17-algo specialization
+30-10-2025  19:13    <DIR>          18-Algo DS specialization
+03-06-2024  20:25    <DIR>          19-advanced-data-structures
+03-06-2024  11:59    <DIR>          20-data-structures-optimizing-performance
+01-05-2025  21:37    <DIR>          21-boulder-data-structures-algorithms
+23-06-2024  23:47    <DIR>          22-1-Python, Bash and SQL Essentials for Data Engineering Specialization
+02-07-2025  19:24    <DIR>          22-relational-database-design
+02-07-2025  19:27    <DIR>          23-the-structured-query-language-sql
+30-10-2025  19:13    <DIR>          24-oracle sql databases specialization
+05-04-2025  12:09    <DIR>          25-postgres specialization
+24-06-2024  00:06    <DIR>          26-database systems specialization
+02-07-2025  19:31    <DIR>          27-advanced-topics-future-trends-database-technologies
+02-07-2025  19:20    <DIR>          28-1-data-design-operational-business-intelligence
+10-03-2026  11:22    <DIR>          28-2-Big Data Processing Using Hadoop Specialization
+01-09-2025  13:24    <DIR>          28-Vector Database Fundamentals Specialization
+30-05-2025  18:20    <DIR>          29-1-packt-java-multithreading-and-parallel-programming-masterclass-ko8it
+25-05-2025  01:55    <DIR>          29-3-packt-building-modern-distributed-systems-with-java-fpk3r
+08-08-2024  20:08    <DIR>          29-agile-software-development
+13-01-2026  12:09            27,199 2x-Salary-Upskilling-Plan.md
+29-06-2025  12:55    <DIR>          30-software design specialization
+11-06-2024  00:33    <DIR>          31-software architecture and design specialization
+25-05-2025  17:31    <DIR>          32-spring-mvc-for-developers-techniques-and-best-practices
+25-05-2025  17:07    <DIR>          33-mastering-spring-framework
+25-05-2025  21:05    <DIR>          34-enterprise-java-beans-jakarta-persistence-api
+22-12-2025  19:49    <DIR>          35-1-Secure Coding Practices Specialization
+03-06-2024  16:51    <DIR>          35-3-cryptography
+24-06-2024  00:03    <DIR>          35-4-Fundamentals of Computer Network Security Specialization
+25-05-2025  17:44    <DIR>          35-java-ee-essentials-best-practices-for-enterprise-solutions
+25-05-2025  14:41    <DIR>          36-managing-scope-java-enterprise-edition-application
+16-02-2026  11:07    <DIR>          37-aws-fundamentals specialization
+16-02-2026  11:07    <DIR>          38-aws-fundamentals-addressing-security-risk
+16-02-2026  11:07    <DIR>          39-aws-fundamentals-building-serverless-applications
+16-02-2026  11:07    <DIR>          40-1-building-modern-java-applications-on-aws
+16-02-2026  11:07    <DIR>          40-aws-fundamentals-cloud-migration
+23-06-2024  21:52    <DIR>          41-Developing Applications on AWS Specialization
+24-06-2024  00:06    <DIR>          42-DevOps on AWS Specialization
+24-06-2024  00:05    <DIR>          43-Exam Prep AWS Certified SysOps Administrator - Associate Specialization
+24-06-2024  00:04    <DIR>          44-Exam Prep AWS Certified Advanced Networking Specialty Specialization
+24-06-2024  00:04    <DIR>          45-Exam Prep SCS-C02 AWS Certified Security – Specialty Specialization
+13-08-2025  12:32    <DIR>          46-exam-prep-aws-certified-data-engineer-associate
+11-06-2024  00:17    <DIR>          47-gcp specialization
+16-06-2024  22:54    <DIR>          48-gemini for gcp specialization
+29-06-2025  11:58    <DIR>          49-cloud computing specialization
+04-06-2024  01:37    <DIR>          50-1-linux-for-developers
+19-04-2025  17:35    <DIR>          50-2-network automation specialization
+20-12-2025  15:19    <DIR>          50-3-application-security-for-developers-devops
+24-06-2024  00:06    <DIR>          50-codio devops
+07-04-2025  01:12    <DIR>          52-1-machine learninng specialization
+19-10-2025  00:21    <DIR>          52-data science python specialization
+11-06-2024  00:42    <DIR>          53-Data Science Statistics and Machine Learning Specialization
+09-12-2025  12:29    <DIR>          54-Analyzing Time Series and Sequential Data Specialization
+13-08-2025  12:58    <DIR>          55-Data Science Decisions in Time Specialization
+19-10-2025  01:08    <DIR>          56-1-Spatial Data Science and Applications
+03-06-2024  20:48    <DIR>          56-2-information-visualization-fundamentals
+07-09-2025  02:13    <DIR>          56-Statistical Modeling for Data Science Applications Specialization
+18-10-2025  22:46    <DIR>          57-1-GPU programming specialization
+07-04-2025  02:49    <DIR>          57-deep learning specialization
+13-08-2025  13:03    <DIR>          58-TensorFlow 2 for Deep Learning Specialization
+10-06-2024  19:24    <DIR>          59-nlp specialization
+18-10-2025  17:35    <DIR>          60-computer vision for engineering and science specialization
+10-02-2026  23:45    <DIR>          61-firstprinciplesofcomputervision
+13-08-2025  12:15    <DIR>          62-Generative AI for Software Developers Specialization
+11-12-2025  20:24    <DIR>          63-AI Agent Developer Specialization
+26-05-2025  00:24    <DIR>          64-ibm-rag-and-agentic-ai
+24-06-2024  00:04    <DIR>          65-Large Language Model Operations (LLMOps) Specialization
+21-12-2025  19:00    <DIR>          66-NVIDIA certified GenAI LLMs
+05-04-2025  12:46    <DIR>          67-1-game-theory-introduction
+23-10-2025  16:30    <DIR>          67-2-game-theory-1
+23-10-2025  17:44    <DIR>          67-3-game-theory-2
+03-06-2024  19:26    <DIR>          68-blockchain-foundations-and-use-cases
+19-10-2025  01:02    <DIR>          69-1-Fintech Foundations & Applications of Financial Technology Specialization
+30-10-2025  19:11    <DIR>          69-fintech specialization
+25-05-2025  23:24    <DIR>          70-1-finance-healthcare-managers
+25-12-2025  01:39    <DIR>          70-Financial Engineering and Risk Management Specialization
+25-12-2025  02:13    <DIR>          71-pricing-options-with-mathematical-models
+19-04-2025  19:57    <DIR>          72-probabilistic graphic models
+01-07-2025  14:02    <DIR>          73-mcmc
+01-07-2025  14:08    <DIR>          74-introduction-to-pymc3
+13-08-2025  18:12    <DIR>          75-Bayesian Statistics Specialization
+03-06-2024  20:57    <DIR>          76-1-introduction-particle-accelerators
+30-06-2025  21:06    <DIR>          76-quantum-mechanics
+13-08-2025  18:34    <DIR>          77-The Complete Quantum Computing Course for Beginners Specialization
+13-08-2025  13:33    <DIR>          78-1-Fundamentals of Flight mechanics Specialization
+11-12-2025  19:42    <DIR>          78-2-introduction-to-microfabrication
+11-12-2025  19:40    <DIR>          78-3-microfabrication-fundamental-processes
+11-12-2025  19:41    <DIR>          78-4-additional-process-techniques-in-microfabrication
+11-12-2025  19:39    <DIR>          78-5-modeling-ic-processes-emerging-microtechnology
+11-12-2025  19:38    <DIR>          78-6-introduction-to-micro-electro-mechanical-systems
+11-12-2025  19:33    <DIR>          78-7-fundamentals-of-robotics--industrial-automation
+11-12-2025  19:37    <DIR>          78-8-robotics-engineering--applications
+11-12-2025  19:34    <DIR>          78-9-industrial-fluid-systems--smart-factory-automation
+13-08-2025  18:35    <DIR>          78-Engineering Genetic Circuits Specialization
+04-09-2025  00:06    <DIR>          79-1-Computational Social Science Specialization
+11-12-2025  20:20    <DIR>          79-3-foundations-in-heavy-industry-production
+11-12-2025  20:18    <DIR>          79-4-heavy-manufacturing-process-and-system
+11-12-2025  20:15    <DIR>          79-5-heavy-manufacturing-of-typical-static-equipment
+11-12-2025  20:16    <DIR>          79-6-welding-processes-in-heavy-manufacturing--quality-controls
+30-10-2025  19:16    <DIR>          79-7-L&T power distribution and automation specialization
+19-04-2025  19:40    <DIR>          79-8-dmrol
+03-06-2024  21:13    <DIR>          79-modeling-simulation-natural-processes
+30-06-2025  19:18    <DIR>          80-1-css-capstone
+29-06-2025  13:04    <DIR>          80-google ui ux specialization
+24-06-2024  00:05    <DIR>          81-meta react native specialization
+13-08-2025  13:34    <DIR>          82-wharton-business-foundations specialization
+25-05-2025  23:39    <DIR>          83-wharton-finance
+03-09-2025  23:41    <DIR>          84-1-Master Microsoft Office 365 and Power Platform Specialization
+25-05-2025  15:00    <DIR>          84-wharton-introduction-spreadsheets-models
+25-05-2025  14:34    <DIR>          85-wharton-quantitative-modeling
+19-10-2025  01:06    <DIR>          86-Omnichannel Retail Strategy Specialization
+19-10-2025  00:05    <DIR>          87-photography basics and beyond from smartphone to dslr specialization
+23-01-2026  00:33    <DIR>          application-security-for-developers-devops
+02-06-2024  20:24             3,554 appveyor.yml
+02-06-2024  20:24    <DIR>          assets
+02-06-2024  20:24               678 AUTHORS.md
+23-01-2026  02:16    <DIR>          automata-and-computability-odc
+03-02-2026  11:11    <DIR>          blockchain-strategic-action-plan
+17-12-2025  15:25             5,457 cert_chain.pem
+02-06-2024  20:24             4,762 CHANGELOG.md
+02-06-2024  20:24             8,908 CONTRIBUTING.md
+11-12-2025  20:37             1,572 corp-root.pem
+12-01-2026  14:50         3,344,366 cs-dlp-playlist.xspf
+01-02-2026  11:42                60 cs-dlp.code-workspace
+30-12-2025  13:26    <DIR>          cs_dlp
+23-01-2026  02:46    <DIR>          develop-augmented-virtual-mixed-extended-reality-applications-webxr-unity-unreal
+12-01-2026  13:45    <DIR>          download
+09-07-2025  23:14             4,600 downloadlist.txt
+11-12-2025  20:19            66,489 foundations-in-heavy-industry-production-syllabus-parsed.json
+11-12-2025  20:46            80,686 fundamentals-of-robotics--industrial-automation-syllabus-parsed.json
+11-12-2025  20:14            67,313 heavy-manufacturing-of-typical-static-equipment-syllabus-parsed.json
+11-12-2025  20:17            74,856 heavy-manufacturing-process-and-system-syllabus-parsed.json
+29-11-2025  19:56    <DIR>          Learning order
+02-06-2024  20:24             7,816 LICENSE
+30-12-2025  04:42    <DIR>          organizational-analysis
+01-02-2026  17:18             3,262 pending learnings.md
+01-02-2026  01:51             5,449 practice_code_examples.md
+01-02-2026  02:30             4,943 practice_code_examples_batch10.md
+01-02-2026  16:20             2,496 practice_code_examples_batch100.md
+01-02-2026  17:08             1,501 practice_code_examples_batch101.md
+01-02-2026  17:08             2,186 practice_code_examples_batch102.md
+01-02-2026  17:08             2,097 practice_code_examples_batch103.md
+01-02-2026  17:08             2,107 practice_code_examples_batch104.md
+01-02-2026  18:36             2,132 practice_code_examples_batch105.md
+01-02-2026  18:36             2,178 practice_code_examples_batch106.md
+01-02-2026  18:36             2,413 practice_code_examples_batch107.md
+01-02-2026  18:36             3,796 practice_code_examples_batch108.md
+01-02-2026  18:36             3,869 practice_code_examples_batch109.md
+01-02-2026  02:30            10,517 practice_code_examples_batch11.md
+01-02-2026  18:36             3,997 practice_code_examples_batch110.md
+01-02-2026  18:36             3,725 practice_code_examples_batch111.md
+01-02-2026  18:41             2,768 practice_code_examples_batch112.md
+01-02-2026  18:41             2,392 practice_code_examples_batch113.md
+01-02-2026  19:03             2,268 practice_code_examples_batch114.md
+01-02-2026  19:03             2,268 practice_code_examples_batch115.md
+01-02-2026  19:10             2,268 practice_code_examples_batch116.md
+01-02-2026  20:19             2,268 practice_code_examples_batch117.md
+01-02-2026  19:40             3,444 practice_code_examples_batch118.md
+01-02-2026  20:19             4,453 practice_code_examples_batch119.md
+01-02-2026  02:30             8,298 practice_code_examples_batch12.md
+01-02-2026  20:19             4,593 practice_code_examples_batch120.md
+01-02-2026  20:21             4,445 practice_code_examples_batch121.md
+01-02-2026  21:29             4,623 practice_code_examples_batch122.md
+01-02-2026  21:29             3,277 practice_code_examples_batch123.md
+01-02-2026  21:29             3,316 practice_code_examples_batch124.md
+01-02-2026  21:29             3,963 practice_code_examples_batch125.md
+01-02-2026  22:01             4,230 practice_code_examples_batch126.md
+01-02-2026  22:37             3,899 practice_code_examples_batch127.md
+01-02-2026  22:37             3,791 practice_code_examples_batch128.md
+01-02-2026  22:37             3,704 practice_code_examples_batch129.md
+01-02-2026  02:30             5,274 practice_code_examples_batch13.md
+01-02-2026  22:38             4,431 practice_code_examples_batch130.md
+01-02-2026  22:39             4,058 practice_code_examples_batch131.md
+01-02-2026  22:58             4,216 practice_code_examples_batch132.md
+01-02-2026  22:58             3,816 practice_code_examples_batch133.md
+01-02-2026  22:58             4,367 practice_code_examples_batch134.md
+01-02-2026  02:30             3,777 practice_code_examples_batch14.md
+01-02-2026  02:30             4,391 practice_code_examples_batch15.md
+01-02-2026  02:30             4,218 practice_code_examples_batch16.md
+01-02-2026  02:30             4,404 practice_code_examples_batch17.md
+01-02-2026  11:38            10,880 practice_code_examples_batch175_199_preview.md
+01-02-2026  11:38             2,733 practice_code_examples_batch175_274_preview.md
+01-02-2026  11:38             4,591 practice_code_examples_batch18.md
+01-02-2026  11:38             3,858 practice_code_examples_batch19.md
+01-02-2026  02:30             6,263 practice_code_examples_batch2.md
+01-02-2026  11:38             4,698 practice_code_examples_batch20.md
+01-02-2026  11:38             5,449 practice_code_examples_batch21.md
+01-02-2026  11:38             3,735 practice_code_examples_batch22.md
+01-02-2026  11:38             4,535 practice_code_examples_batch23.md
+01-02-2026  11:38             5,006 practice_code_examples_batch24.md
+01-02-2026  11:38             4,971 practice_code_examples_batch25.md
+01-02-2026  11:38             4,966 practice_code_examples_batch26.md
+01-02-2026  11:38             4,932 practice_code_examples_batch27.md
+01-02-2026  11:38             6,900 practice_code_examples_batch28.md
+01-02-2026  11:38             7,994 practice_code_examples_batch29.md
+01-02-2026  01:58             4,639 practice_code_examples_batch3.md
+01-02-2026  11:38             8,518 practice_code_examples_batch30.md
+01-02-2026  11:38            10,346 practice_code_examples_batch31.md
+01-02-2026  11:38             8,147 practice_code_examples_batch32.md
+01-02-2026  11:38             9,623 practice_code_examples_batch33.md
+01-02-2026  11:38             6,280 practice_code_examples_batch34.md
+01-02-2026  11:38             6,468 practice_code_examples_batch35.md
+01-02-2026  11:38             5,173 practice_code_examples_batch36.md
+01-02-2026  11:38             5,864 practice_code_examples_batch37.md
+01-02-2026  11:38             5,474 practice_code_examples_batch38.md
+01-02-2026  11:39             5,357 practice_code_examples_batch39.md
+01-02-2026  02:30             5,362 practice_code_examples_batch4.md
+01-02-2026  11:41             5,256 practice_code_examples_batch40.md
+01-02-2026  11:41             5,990 practice_code_examples_batch41.md
+01-02-2026  11:42             6,625 practice_code_examples_batch42.md
+01-02-2026  11:42             6,469 practice_code_examples_batch43.md
+01-02-2026  11:45             7,096 practice_code_examples_batch44.md
+01-02-2026  11:45             5,426 practice_code_examples_batch45.md
+01-02-2026  11:45             4,382 practice_code_examples_batch46.md
+01-02-2026  11:53             3,894 practice_code_examples_batch47.md
+01-02-2026  11:53             3,838 practice_code_examples_batch48.md
+01-02-2026  11:53             4,536 practice_code_examples_batch49.md
+01-02-2026  02:30             6,216 practice_code_examples_batch5.md
+01-02-2026  11:53             4,663 practice_code_examples_batch50.md
+01-02-2026  11:53             4,730 practice_code_examples_batch51.md
+01-02-2026  11:53             4,390 practice_code_examples_batch52.md
+01-02-2026  11:53             4,188 practice_code_examples_batch53.md
+01-02-2026  11:53             4,330 practice_code_examples_batch54.md
+01-02-2026  11:54             4,898 practice_code_examples_batch55.md
+01-02-2026  11:55             4,785 practice_code_examples_batch56.md
+01-02-2026  12:06             5,840 practice_code_examples_batch57.md
+01-02-2026  12:06             5,159 practice_code_examples_batch58.md
+01-02-2026  12:06             5,226 practice_code_examples_batch59.md
+01-02-2026  02:30             4,947 practice_code_examples_batch6.md
+01-02-2026  12:06             5,682 practice_code_examples_batch60.md
+01-02-2026  12:06             6,003 practice_code_examples_batch61.md
+01-02-2026  12:06             5,390 practice_code_examples_batch62.md
+01-02-2026  12:08             5,893 practice_code_examples_batch63.md
+01-02-2026  12:15             4,371 practice_code_examples_batch64.md
+01-02-2026  12:15             5,001 practice_code_examples_batch65.md
+01-02-2026  12:15             4,561 practice_code_examples_batch66.md
+01-02-2026  12:15             4,370 practice_code_examples_batch67.md
+01-02-2026  12:26             4,863 practice_code_examples_batch68.md
+01-02-2026  12:26             4,912 practice_code_examples_batch69.md
+01-02-2026  02:30             4,682 practice_code_examples_batch7.md
+01-02-2026  12:26             4,887 practice_code_examples_batch70.md
+01-02-2026  12:26             4,253 practice_code_examples_batch71.md
+01-02-2026  12:26             3,696 practice_code_examples_batch72.md
+01-02-2026  12:26             4,374 practice_code_examples_batch73.md
+01-02-2026  12:26             3,070 practice_code_examples_batch74.md
+01-02-2026  13:57             3,468 practice_code_examples_batch75.md
+01-02-2026  13:56             3,371 practice_code_examples_batch76.md
+01-02-2026  13:56             3,257 practice_code_examples_batch77.md
+01-02-2026  13:53             2,502 practice_code_examples_batch78.md
+01-02-2026  14:44             3,754 practice_code_examples_batch79.md
+01-02-2026  02:30             5,898 practice_code_examples_batch8.md
+01-02-2026  16:04             4,010 practice_code_examples_batch80.md
+01-02-2026  16:04             5,066 practice_code_examples_batch81.md
+01-02-2026  16:04             5,184 practice_code_examples_batch82.md
+01-02-2026  16:04             4,239 practice_code_examples_batch83.md
+01-02-2026  16:04             3,016 practice_code_examples_batch84.md
+01-02-2026  16:04             3,116 practice_code_examples_batch85.md
+01-02-2026  16:04             2,938 practice_code_examples_batch86.md
+01-02-2026  16:04             3,324 practice_code_examples_batch87.md
+01-02-2026  16:04             2,889 practice_code_examples_batch88.md
+01-02-2026  16:04             2,571 practice_code_examples_batch89.md
+01-02-2026  02:30             6,528 practice_code_examples_batch9.md
+01-02-2026  16:04             2,580 practice_code_examples_batch90.md
+01-02-2026  16:04             2,487 practice_code_examples_batch91.md
+01-02-2026  16:04             2,459 practice_code_examples_batch92.md
+01-02-2026  16:05             2,317 practice_code_examples_batch93.md
+01-02-2026  16:05             2,355 practice_code_examples_batch94.md
+01-02-2026  16:09             2,360 practice_code_examples_batch95.md
+01-02-2026  16:09             2,434 practice_code_examples_batch96.md
+01-02-2026  16:20             2,487 practice_code_examples_batch97.md
+01-02-2026  16:20             2,607 practice_code_examples_batch98.md
+01-02-2026  16:20             2,697 practice_code_examples_batch99.md
+02-06-2024  20:24             1,761 pyproject.toml
+02-06-2024  20:24            17,151 README.md
+11-12-2025  20:27            76,931 robotics-engineering--applications-syllabus-parsed.json
+30-12-2025  16:48                 0 run-cs-dlp.ps1
+17-01-2026  14:46            96,387 runningorg.md
+31-12-2025  22:48    <DIR>          scala
+31-12-2025  21:43    <DIR>          scala2-akka-reactive
+11-12-2025  19:57    <DIR>          src
+02-06-2024  20:24    <DIR>          test
+02-06-2024  20:24               845 tox.ini
+13-01-2026  12:09            24,496 Trading-Learning-Path.md
+23-01-2026  02:47    <DIR>          user-experience-interaction-design-augmented-virtual-mixed-extended-reality
+11-12-2025  20:16            86,237 welding-processes-in-heavy-manufacturing--quality-controls-syllabus-parsed.json
